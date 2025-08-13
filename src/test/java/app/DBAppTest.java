@@ -39,7 +39,7 @@ public class DBAppTest {
 			randomNumber2 = (int) (Math.random() * 100000) + 1;
 			newTableName = randomNumber1 + "" + randomNumber2;
 		}
-	
+	}
 
 	private static void createTable() throws DBAppException {
 		Hashtable<String, String> htblColNameType = createHashtable(Constants.INTEGER_DATA_TYPE_NAME,
