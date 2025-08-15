@@ -1,0 +1,2 @@
+whenever the developer push the code intoi the gitrepository then,it build will start automatically in jenkkins
+due to we enable the webhook.:
