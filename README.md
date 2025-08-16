@@ -3,7 +3,7 @@ Database Engine that supports some features like:
 - Creating a the table
 - Inserting into a table
 - Updating a table
-- Deleting from a table
+- Deleting from a table.table
 - Selecting from a table
 - Creating an Index -using Octree-
 - Writing SQL queries
